@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am working on and IntelliJ for Java Development, mainly Minecraft Java Edition Plugins.
+I am working in IntelliJ and doing Java Development, mainly Minecraft Java Edition Plugins.
 
 <!--
 **LautjeDS/LautjeDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
